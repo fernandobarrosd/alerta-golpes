@@ -21,6 +21,7 @@ Atualmente acontencem muitos golpes na internet e o aplicativo vai facilitar jus
 ## Requisitos não funcionais
 - O aplicativo deve seguir o padrão MVVM (Model-View-ViewModel).
 - O aplicativo deve cachear os dados para evitar várias consultas ao banco de dados.
+- Antes de cadastrar o usuário a senha deve ser criptografada.
 - O usuário precisa ter uma experiência fluída.
 - O usuário precisa saber quando os dados foram carregados ou não.
 - Deter ter o aplicativo administrativo que irá monitorar as atividades dos usuário que usam o aplicativo não administrativo.
